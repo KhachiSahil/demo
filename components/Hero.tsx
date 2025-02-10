@@ -1,6 +1,6 @@
 export default function Hero() {
     return (
-      <section className="relative h-[70vh] bg-[url('/bg2.jpeg')] bg-cover bg-center flex items-center">
+      <section className="relative h-[70vh] bg-[url('/bg2.jpeg')] bg-cover mt-16 md:mt-0 bg-center flex items-center">
         {/* Overlay for better readability */}
         <div className="absolute inset-0 bg-blue-900 bg-opacity-50"></div>
   
